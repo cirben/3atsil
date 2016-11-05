@@ -1,5 +1,5 @@
 CC=g++ -g -std=c++11
-BAKEFLAGS=
+BAKEFLAGS=-lcryptopp
 CFLAGS=-c -Wall -I ./headers
 OBJDIR=obj/
 SRCDIR=src/

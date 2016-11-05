@@ -1,0 +1,3 @@
+./k3 1 ./test.gif ./test.gif.enc aes cbc ./ newKey y
+
+./k3 0 ./test.gif.enc ./test2.gif aes cbc ./ newKey n

@@ -4,4 +4,5 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-main	./main.cpp	/^int main(int argc, char* argv[]){$/;"	f	signature:(int argc, char* argv[])
+main	./main.cpp	/^int main(int argc, char* argv[]){	$/;"	f	signature:(int argc, char* argv[])
+main	./maincopy.cpp	/^int main(int argc, char* argv[]){	$/;"	f	signature:(int argc, char* argv[])
